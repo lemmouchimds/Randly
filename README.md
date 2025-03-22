@@ -17,7 +17,15 @@ A Flutter application that provides tools for generating random characters and n
 - User-friendly interface with tap-to-generate functionality
 
 ## Screenshots
-[Add screenshots here]
+<div align="center">
+   <img src="screenshots/Screenshot_1742648649.png" alt="Randly App Screenshot" width="300"/>
+</div>
+<div align="center">
+   <img src="screenshots/Screenshot_1742648658.png" alt="Randly App Screenshot" width="300"/>
+</div>
+<div align="center">
+   <img src="screenshots/Screenshot_1742648714.png" alt="Randly App Screenshot" width="300"/>
+</div>
 
 ## Getting Started
 
@@ -30,7 +38,7 @@ A Flutter application that provides tools for generating random characters and n
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/randly.git
+   git clone https://github.com/lemmouchimds/randly.git
    ```
 
 2. Navigate to the project directory:
