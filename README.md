@@ -19,11 +19,7 @@ A Flutter application that provides tools for generating random characters and n
 ## Screenshots
 <div align="center">
    <img src="screenshots/Screenshot_1742648649.png" alt="Randly App Screenshot" width="300"/>
-</div>
-<div align="center">
    <img src="screenshots/Screenshot_1742648658.png" alt="Randly App Screenshot" width="300"/>
-</div>
-<div align="center">
    <img src="screenshots/Screenshot_1742648714.png" alt="Randly App Screenshot" width="300"/>
 </div>
 
