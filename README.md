@@ -17,13 +17,13 @@ A Flutter application that provides tools for generating random characters and n
 - User-friendly interface with tap-to-generate functionality
 
 ## Screenshots
-<div align="center">
-   <img src="screenshots/Screenshot_1742648649.png" alt="Randly App Screenshot" width="300"/>
-   <img src="screenshots/Screenshot_1742648658.png" alt="Randly App Screenshot" width="300"/>
-   <img src="screenshots/Screenshot_1742648714.png" alt="Randly App Screenshot" width="300"/>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+   <img src="screenshots/Screenshot_1742648649.png" alt="Randly App Screenshot" width="30%"/>
+   <img src="screenshots/Screenshot_1742648658.png" alt="Randly App Screenshot" width="30%"/>
+   <img src="screenshots/Screenshot_1742648714.png" alt="Randly App Screenshot" width="30%"/>
 </div>
 
-## Getting Started
+## Getting Startedbn
 
 ### Prerequisites
 - Flutter SDK (latest stable version recommended)
